@@ -1,0 +1,51 @@
+<head>
+    <meta charset="utf-8">
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@figma">
+    <meta name="twitter:title" content="Annotated page">
+    <meta name="twitter:player" content="https://www.figma.com/embed?embed_host=twitter&amp;url=https://www.figma.com/file/AKZSOPjexO4UuH9vQdqgR5/Coding-part?node-id=0-1&amp;t=k5LNsoEZHqzumYjT-0">
+    <meta name="twitter:player:width" content="800">
+    <meta name="twitter:player:height" content="450">
+    <meta name="twitter:image" content="https://www.figma.com/file/AKZSOPjexO4UuH9vQdqgR5/thumbnail?ver=thumbnails/24b93f21-a339-4b12-aebb-f2ebd66ec495">
+
+    <meta property="og:url" content="https://www.figma.com/file/AKZSOPjexO4UuH9vQdqgR5/Annotated-page">
+    <meta property="og:description" content="Created with Figma">
+    <meta property="og:image" content="https://www.figma.com/file/AKZSOPjexO4UuH9vQdqgR5/thumbnail?ver=thumbnails/24b93f21-a339-4b12-aebb-f2ebd66ec495">
+    <meta property="og:image:width" content="321">
+    <meta property="og:image:height" content="800">
+    <meta property="og:image:user_generated" content="true">
+    <meta property="og:type" content="article">
+    <meta property="og:article:published_time" content="2023-05-01 01:15:55 UTC">
+    <meta property="og:article:modified_time" content="2023-05-08 03:06:33 UTC">
+    <meta property="og:article:section" content="Design">
+
+    <meta name="description" content="Created with Figma">
+
+    <link rel="alternate" type="application/json+oembed" href="https://www.figma.com/api/oembed?url=https://www.figma.com/file/AKZSOPjexO4UuH9vQdqgR5/Coding-part?node-id=0-1&amp;t=k5LNsoEZHqzumYjT-0" title="OEmbed">
+
+    <script nonce="">
+      if (function() {
+        try { eval('(() => { const dtFormat = new Intl.ListFormat()})();') } catch (e) { return true }
+      }()) {
+        location.href = '/unsupported_browser'
+      }
+    </script>
+    <div style="position: fixed; top: -1000px; left: -1000px;">
+        <div aria-hidden="true" id="font-ui-400-normal">a</div>
+        <div aria-hidden="true" id="font-ui-400-italic">a</div>
+        <div aria-hidden="true" id="font-ui-500-normal">a</div>
+        <div aria-hidden="true" id="font-ui-500-italic">a</div>
+        <div aria-hidden="true" id="font-ui-600-normal">a</div>
+        <div aria-hidden="true" id="font-ui-600-italic">a</div>
+
+        <div aria-hidden="true" id="font-ui-400-normal-white">a</div>
+      </div>
+      <div class="file-browser-loading-page-container" data-preferred-theme="light">
+  <!--  Minimal theming logic, duplicated from web/js/figma_app/hooks/themes.ts -->
+<script nonce="">
+  let theme = window.localStorage.getItem('global-debug-theme-preference')
+  if (!theme || theme === 'legacy') {
+    theme = 'light'
+  }
+  document.querySelector(".file-browser-loading-page-container").dataset.preferredTheme = theme
+</script>
